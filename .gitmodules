@@ -1,0 +1,3 @@
+[submodule "proto-mobile"]
+	path = proto-mobile
+	url = https://github.com/mayconspirlandelli/proto-mobile.git
